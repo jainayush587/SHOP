@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "sweatshirt",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./images/product-1.png" } } }
+      }
+    }
+  ]
+}
