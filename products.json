@@ -5,8 +5,41 @@
       "fields": {
         "title": "sweatshirt",
         "price": 599,
-        "image": { "fields": { "file": { "url": "./images/product-1.png" } } }
+        "image": { "fields": { "file": { "url": "./images/product_1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "sweatshirt",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./images/product_2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "sweatshirt",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./images/product_3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "sweatshirt",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./images/product_4.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "sweatshirt",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./images/product_5.png" } } }
       }
     }
+    
   ]
 }
